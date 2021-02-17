@@ -1,3 +1,3 @@
 # InterviewPrep-DSA
 
-## [Linked Lists] (https://github.com/bhaskarakhil29/InterviewPrep-DSA/tree/main/LinkedLists)
+## [Linked Lists](https://github.com/bhaskarakhil29/InterviewPrep-DSA/tree/main/LinkedLists)
